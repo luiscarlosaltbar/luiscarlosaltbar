@@ -1,6 +1,6 @@
 ### About Me:
 - 😘 Hi, I’m @luiscarlosaltbar@
-- 👀 I’m passionate in Web Development with Python/Django
+- 👀 I’m passionate in Web Development with Python/Django and JS/TS
 - 💫 I’m currently focusing on Computer Vision and learning C#/Java
 - 💞️ I’m looking to collaborate on AI Development
 
